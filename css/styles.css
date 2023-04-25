@@ -1,0 +1,165 @@
+
+h1{
+    color: #ffffff !important;
+    font-family: 'DynaPuff', cursive;    
+
+}
+.rfs.scss{
+    font-size: .5rem;
+    line-height: .5;
+}
+
+p{
+ color:#aea9aa 
+font-style }
+
+.container-fluid{
+padding: 3% 15%;
+}
+    
+
+
+
+.fa-solid{
+color: #ff4c68;
+  }  
+
+  .fa-solid:hover {
+color:#862130;
+  }
+
+#title{
+    background-color: #ff4c68;
+ padding: 10% 10%;
+ height: 800px;
+
+}
+.bb-brand{
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.nav-item{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+   
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+.title-image{
+   width: 60%; 
+   transform: rotate(25deg);
+right: 60%;
+  
+   padding: absolute;
+}
+
+#features{
+    
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+   
+    
+}
+.feature-box{
+    text-align: center;
+}
+.pp{
+    padding-top: 10%;
+    color: #ffffff;
+    padding-top: 5%;
+    font-family: "Helvetica-Bold", cursive;
+    font-size: 24px;
+    
+}
+/* testimonials */
+#testimonials{
+    background-color: #ef8172;
+   color: #fff;
+padding: 7% 15%;
+text-align: center;
+font-family: "Montserrat-Bold"
+    font-size 1%;
+}
+.dog{
+  width: 20%; 
+  border-radius: 100%; 
+  margin: 20px;
+  
+}
+#press{
+    background-color: #ef8172;
+ padding-bottom: 3%;
+ text-align: center;
+   
+}
+.logo{
+    width: 15%;
+    margin: 20px 20px 5%;}
+    .carousel-item{
+        padding: 7% 15%;  
+    }
+em{
+        font-size: 80%;
+    }
+
+    #pricing{
+      padding: 100px;  
+     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .pricing-colum{
+        padding-top: 5%;
+        padding-right: 5%;
+       
+    }
+    .bt{
+        align-items: center;
+      width: 250px;
+      height: auto;
+    }
+    
+    :root {
+        --bs-heading-color:
+      }
+      #cta{
+       background-color:  #ff4c68;
+       color: #ffffff;
+       font-family: "Helvetica-Bold", cursive;
+       padding-top: 10%;
+       padding-bottom: 5%;
+        text-align: center;
+      }
+      
+     @media (max-width: 1028px){
+        .title-image{
+            padding: static;
+            transform: rotate(0);
+
+        }
+        #title{
+            text-align: center;
+        }
+     }
+     .end{
+        color: #000000;
+        font-family: 'arial', serif;
+        font-size: xx-small;
+     }
+     #footer{
+        padding-top: 5%;
+        padding-bottom: 5%;
+       background-color: #ffffff;
+       text-align: center;
+     }
+     .gmail{
+        color: #000000;
+     }
+      
+
+
+
